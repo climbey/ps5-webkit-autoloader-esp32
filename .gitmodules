@@ -1,0 +1,3 @@
+[submodule "ps5-webkit-autoloader-esp32"]
+	path = ps5-webkit-autoloader-esp32
+	url = https://github.com/climbey/ps5-webkit-firmware.git
